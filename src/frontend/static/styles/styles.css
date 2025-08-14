@@ -337,7 +337,7 @@ main {
 .hot-product-card img {
   width: 100%;
   height: auto;
-  border-radius: 20% 0 20% 20%;
+  border-radius: 30% 30% 30% 30%;
 }
 
 .hot-product-card-name {
